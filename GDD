@@ -3,7 +3,17 @@ Storia:
     -Il giocatore sceglie la Terra come pianeta da far mangiare a Galactus.
     -Il giocatore sceglie un altro pianeta da servire a Galactus.
   Ci saranno diversi pianeti, la storia proseguirà solo quando il surfista argentato si dirige sulla terra, il resto sono opzionali.
-  
+
+Menù Principale
+  Il menù principale è composto da un immagine di Silver Surfer di sfondo e sotto le varie opzioni del menù, una volta premuto il tasto nuova partita/continua
+  il surfista si alzerà dalla roccia su cui è seduto e prenderà il volo in un animazione che poi fa da transizione al gioco.
+  Il menù presenterà i tasti:
+    -Nuova Partita
+    -Carica Partita
+    -Opzioni
+    -Crediti
+    -Esci
+
 Livelli:
   La prima fase del gioco sarà una grande mappa dello spazio, piena di pianeti che il giocatore può dare un pasto a Galactus, tra questi ci sarà la terra che farà progredire con la storia principale,
   ogni volta che il giocatore sceglie un pianeta esso viene mangiato da Galactus con una scena apposita, alcuni avranno missioni particolari, dopo esser stato divorato esso verrà rimosso dalla mappa.
